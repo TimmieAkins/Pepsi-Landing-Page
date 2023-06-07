@@ -563,10 +563,6 @@ video {
   flex-direction: row;
 }
 
-.place-content-center {
-  place-content: center;
-}
-
 .place-content-end {
   place-content: end;
 }
